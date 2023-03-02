@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basics In Compose</string>
+    <string name="happy_birthday_text">Happy Birthday Pavlo</string>
+    <string name="signature_text">-from Pavlo</string>
+</resources>
